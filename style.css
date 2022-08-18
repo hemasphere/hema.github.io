@@ -28,11 +28,11 @@ h2 {
 }
 
 h5 {
-  padding-left: 40px;
+  padding-left: 10px;
 }
 
 h6 {
-  padding-left: 40px;
+  padding-left: 10px;
 }
 
 p {
@@ -41,7 +41,7 @@ p {
   text-align: left;
   width: 100%;
   font-family: Georgia;
-  padding-left: 40px;
+  padding-left: 10px;
 }
 
 .container{
@@ -53,5 +53,5 @@ p {
   text-color: grey;
   margin-bottom: 20px;
   padding-bottom: 30px;
-  padding-left: 40px;
+  padding-left: 10px;
 }
