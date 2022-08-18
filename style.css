@@ -34,3 +34,8 @@ p {
   font-family: Helvetica;
 }
 
+.aligned{
+  display: flex;
+  align-items: center;
+}
+
