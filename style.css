@@ -27,6 +27,14 @@ h2 {
   font-family: Georgia;
 }
 
+h5 {
+  padding-left: 40px;
+}
+
+h6 {
+  padding-left: 40px;
+}
+
 p {
   color: black;
   line-height: 1.3em;
