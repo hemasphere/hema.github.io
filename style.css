@@ -31,12 +31,14 @@ p {
   text-align: left;
   width: 100%;
   font-family: Georgia;
+  padding-left: 20px;
 }
 
 .aligned{
   display: flex;
   align-items: center;
   padding-right:20px;
+  
 }
 
 .column {
