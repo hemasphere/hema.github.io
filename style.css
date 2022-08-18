@@ -38,8 +38,3 @@ p {
   display: flex;
   align-items: center;
 }
-
-#image{
-  line-height: 1.5em;
-  list-style-image: url(https://illustoon.com/photo/2401.png);
-}
