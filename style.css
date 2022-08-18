@@ -34,3 +34,13 @@ p {
   font-family: Georgia;
   padding-left: 40px;
 }
+
+.container{
+  max-width: 1400px;
+}
+
+.card{
+  background: white;
+  text-color: grey;
+  margin-bottom: 20px;
+}
