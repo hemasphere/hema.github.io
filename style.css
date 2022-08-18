@@ -35,15 +35,7 @@ p {
   padding-left: 40px;
 }
 
-.aligned{
-  display: flex;
-  align-items: center;
-  padding-right:20px;
-  
+span{
+  color: teal;
+  border-radius: 15px 50px 30px 5px
 }
-
-.column {
-	  float: left;
-	  width: 30%;
-	  padding: 5px;
-	}
